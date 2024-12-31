@@ -6,7 +6,7 @@
 Fashion Look is a web design project inspired by PicsArt. In this project, I learned to create a responsive web design using HTML and CSS. This project showcases skills in web design and adaptability across different device sizes.
 
 <h2>Technologies Used</h2>
-  - HTML
+  - HTML <br>
   - CSS
 
 <h2>Responsive Design</h2>
